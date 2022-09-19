@@ -15,9 +15,7 @@ A Python wrapper for the WooCommerce REST API. Easily interact with the WooComme
 Installation
 ------------
 
-.. code-block:: bash
-
-    pip install woocommerce
+Use the code directly in your project. There is no pip package for this unofficial Woocommerce API.
 
 Getting started
 ---------------
